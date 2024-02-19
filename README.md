@@ -6,7 +6,7 @@
 
 ## This fork fixed issue what was described here: https://github.com/akiran/react-slick/issues/2345
 ## Issue what was fixed: 
-## "Pagination Dots Not Activating Correctly with Odd Values for slidesToShow and infinite: false. "
+## "Pagination Dots Not Activating Correctly with decimal values for slidesToShow and infinite: false. "
 
 ## [Documentation](http://react-slick.neostack.com)
 
